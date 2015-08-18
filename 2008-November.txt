@@ -1,0 +1,21 @@
+From jag2kn at gmail.com  Mon Nov 17 19:53:15 2008
+From: jag2kn at gmail.com (Jorge Gonzalez)
+Date: Mon, 17 Nov 2008 13:53:15 -0500
+Subject: [Ktoon-devel] Hola prueba
+Message-ID: <d31820b60811171053s2814c482o893677736d6b378a@mail.gmail.com>
+
+Esta es una prueba
+
+-- 
+Jorge Andr?s Gonz?lez
+jag2kn (at) gmail.com
+jgonzalez (at) idesoluciones.com
+jorge.gonzalez (at) libertsoft.com
+http://joorge.com
+Cel: 301 217 78 60
+Linux Counter 345082
+Bogot?     -    Colombia    -     Sur Am?rica
+-------------- next part --------------
+An HTML attachment was scrubbed...
+URL: <https://lists.berlios.de/pipermail/ktoon-devel/attachments/20081117/827123e1/attachment.html>
+
